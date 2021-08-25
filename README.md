@@ -1,0 +1,3 @@
+Assalamualaikum
+
+Just beginner, heheheheh
