@@ -1,3 +1,3 @@
 Assalamualaikum
 
-Road to Profesional Developers.... hehehe
+Road to Profesional Developers
