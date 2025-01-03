@@ -14,7 +14,7 @@ Technical Skills
     Database Management: MySQL</p><p align='left'> You can view my website portfolio <a href='https://ridho-alfandi.vercel.app/' target=_blank><u>here</u>.</a></p>
 
 <p align="left">
-<a href="https://github.com/misnosugianto">
+<a href="https://github.com/koplakzs">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koplakzs&theme=algolia"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=koplakzs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=koplakzs&theme=algolia&hide_border=false"/>
