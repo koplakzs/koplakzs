@@ -5,13 +5,13 @@
 [![github][github]](github.com/koplakzs)
 [![mail][mail]](mailto:ridh0.alfandi48@gmail.com)
 
-<p align='left'>  am an Informatics Engineering graduate and a Fullstack Developer with over a year of experience in building robust and scalable applications. My expertise lies in creating and maintaining efficient front-end systems, seamlessly collaborating with back-end developers to deliver comprehensive, end-to-end solutions.
+<p align='left'> I am an Informatics Engineering graduate and a Fullstack Developer with over a year of experience in building robust and scalable applications. My expertise lies in creating and maintaining efficient front-end systems, seamlessly collaborating with back-end developers to deliver comprehensive, end-to-end solutions.
 
 Technical Skills
-    Programming Languages: TypeScript, PHP, JavaScript, and Dart
-    Frameworks: Next.js, React.js, Laravel, Flutter, and Nuxt.js
-    State Management: Zustand
-    Database Management: MySQL</p><p align='left'> You can view my website portfolio <a href='https://ridho-alfandi.vercel.app/' target=_blank><u>here</u>.</a></p>
+    Programming Languages: TypeScript, PHP, JavaScript, and Dart.
+    Frameworks: Next.js, React.js, Laravel, Flutter, and Nuxt.js.
+    State Management: Zustand.
+    Database Management: MySQL.</p><p align='left'> You can view my website portfolio <a href='https://ridho-alfandi.vercel.app/' target=_blank><u>here</u>.</a></p>
 
 <p align="left">
 <a href="https://github.com/koplakzs">
